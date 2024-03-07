@@ -11,24 +11,6 @@ Ensure you have the latest version of Android Studio installed.
 ### Installation
 
 1. Clone the repository:
-2. 
-Here's a simple README.md file for your GitHub project:
-
-markdown
-Copy code
-# Retrofit Example in Android
-
-This project demonstrates the use of Retrofit in an Android application to perform network operations. The app fetches a list of posts from a JSON placeholder API and displays them in a RecyclerView.
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the latest version of Android Studio installed.
-
-### Installation
-
-1. Clone the repository:
 git clone https://github.com/your-username/your-repository-name.git
 
 2. Open the project in Android Studio.
