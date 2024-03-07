@@ -1,3 +1,10 @@
 package com.example.firebasepushnotifications
 
-data class Todo(var title: String, var isChecked: Boolean)
+import java.io.Serializable
+
+data class Todo(
+    val body: String,
+    val id: Int,
+    val title: String,
+    val userId: Int
+)
